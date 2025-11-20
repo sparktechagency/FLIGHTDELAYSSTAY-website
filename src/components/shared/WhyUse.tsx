@@ -7,7 +7,7 @@ const WhyUse = () => {
     return (
          <div className="bg-[#F3F3F3] lg:pt-20 lg:pb-20 pt-14 pb-24 ">
       <Heading style="font-normal lg:text-[32px] text-3xl leading-[48px] text-[#3E3E3E] text-center">
-        Why use <span className="text-primary">Airport Airbnb</span>
+        Why use <span className="text-primary">FlightDelayStays.com</span>
       </Heading>
       <div className="container  grid lg:grid-cols-3 grid-cols-1 gap-[5%] mt-20 lg:mb-0 mb-5">
         <div className="relative bg-white px-6 pb-6 rounded-2xl mx-auto ">

@@ -17,7 +17,7 @@ const Banner = () => {
                     playsInline
                 >
                     <source
-                        src="https://res.cloudinary.com/dd0giqouc/video/upload/v1753682323/MicrosoftTeams-video_1_tv8yym.mp4"
+                        src="https://res.cloudinary.com/ds1njqypu/video/upload/v1763529216/MicrosoftTeams-video_brgm6w.mp4"
                         type="video/mp4"
                     />
                     Your browser does not support the video tag.
