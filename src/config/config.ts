@@ -1,1 +1,1 @@
-export const imgUrl = "https://api.flightdelaystay.com/";
+export const imgUrl = "http://147.93.121.222:5002/";
